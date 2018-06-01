@@ -1,9 +1,6 @@
 '''
 Author: Zach Rosson
-Date: 4/19/18
-Class: ISTA 350
-Section Leader: Sarah Stueve
-Colabortion:                                             
+Date: 4/19/18                                            
 Description:
 this program will scrape websites, save the soup, and then has a function that does both.
 main will check if a html file has been made of the websites and if they are not there it
